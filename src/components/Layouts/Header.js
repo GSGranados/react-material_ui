@@ -5,7 +5,7 @@ const Header = () => {
   return (
   <AppBar position="sticky">
     <Toolbar>
-      <Typography variant="headline" color="inherit">Exercise Database</Typography>
+      <Typography variant="h6" color="inherit">Exercise Database</Typography>
     </Toolbar>
   </AppBar>);
 };
